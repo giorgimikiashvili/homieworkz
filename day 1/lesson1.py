@@ -1,16 +1,10 @@
-name = "abdul" #string tipis cvladi
-age = 22 #int tipis cvladi (integer - mteli ricxvi)
-height = 184.3 #float tipis cvladi (float-atwiladi)
-knows_programming = True #bool tipis cvladi (boolean - logikuri cvladi, ormagi mnishvnelobis)
-is_chad = False #bool
-#name aris cvladi
-# = cvladis inicializacia
-# "nika" aris cvladis mnishvneloba
-surname = "jabbar"
-print(name)
+name = "giorgi"
+age = 20
+height = 176.5
+
+
+print("chemi saxelia{} da chemi asakia{} simagle ki {}".format(name, age, height)) #formatis mnishvnelobebi chajdeba pigurul prchxilebshi {}
 
 
 
 
-
-print("my name is " + str(name)+ " " + str(surname) + " " + "I'm" + " " + str(age) + " years old" + " and I'm " + str(height) + " cm tall")
